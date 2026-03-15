@@ -1,0 +1,32 @@
+[
+  {
+    "userId": "24BPH030",
+    "mental": {"stress": 3, "anxiety": 4, "isolation": 2, "focus": 7, "sleep": 6, "mood": 8},
+    "physical": {"heartRate": 70, "systolicBP": 120, "diastolicBP": 80, "spo2": 98, "temperature": 36.8, "steps": 8000},
+    "timestamp": "2026-03-14T10:00:00.000Z"
+  },
+  {
+    "userId": "24BPH030",
+    "mental": {"stress": 4, "anxiety": 3, "isolation": 3, "focus": 6, "sleep": 7, "mood": 7},
+    "physical": {"heartRate": 72, "systolicBP": 118, "diastolicBP": 78, "spo2": 97, "temperature": 36.9, "steps": 7500},
+    "timestamp": "2026-03-14T11:00:00.000Z"
+  },
+  {
+    "userId": "24BPH030",
+    "mental": {"stress": 2, "anxiety": 5, "isolation": 1, "focus": 8, "sleep": 5, "mood": 9},
+    "physical": {"heartRate": 68, "systolicBP": 122, "diastolicBP": 82, "spo2": 99, "temperature": 36.7, "steps": 9000},
+    "timestamp": "2026-03-14T12:00:00.000Z"
+  },
+  {
+    "userId": "24BPH030",
+    "mental": {"stress": 5, "anxiety": 2, "isolation": 4, "focus": 5, "sleep": 8, "mood": 6},
+    "physical": {"heartRate": 75, "systolicBP": 125, "diastolicBP": 85, "spo2": 96, "temperature": 37.0, "steps": 6000},
+    "timestamp": "2026-03-14T13:00:00.000Z"
+  },
+  {
+    "userId": "24BPH030",
+    "mental": {"stress": 1, "anxiety": 1, "isolation": 1, "focus": 9, "sleep": 9, "mood": 10},
+    "physical": {"heartRate": 65, "systolicBP": 115, "diastolicBP": 75, "spo2": 100, "temperature": 36.5, "steps": 10000},
+    "timestamp": "2026-03-14T14:00:00.000Z"
+  }
+]
