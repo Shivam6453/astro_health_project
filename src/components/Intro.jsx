@@ -467,7 +467,7 @@ export default function Intro() {
           <h2 className="home-section-title">Made in India 🇮🇳</h2>
           <p className="home-section-text" style={{ marginBottom: 0, maxWidth: 600, margin: "0 auto" }}>
             astro_friend is proudly developed as an Indian innovation for global space exploration. This prototype demonstrates India's commitment to advancing astronaut health and wellness technologies for the Gaganyaan program and international space missions.
-            It is made by Team Shift + Delete the passionate developers dedicated to pushing the boundaries of space health solutions.
+            It is made by Shivam kaundal the passionate developers dedicated to pushing the boundaries of space health solutions.
           </p>
         </div>
       </section>
