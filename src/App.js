@@ -21,7 +21,7 @@ export default function App() {
       </main>
 
       <footer className="app-footer">
-        <span>astro_friend prototype</span>
+        <span>astro_friend • Built by Shivam Kaundal</span>
         <span>â€¢</span>
         <span>For ISRO / NASA astronaut health support</span>
       </footer>
